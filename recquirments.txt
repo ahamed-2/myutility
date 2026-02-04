@@ -1,0 +1,13 @@
+# Core
+Flask==2.3.3
+pyrogram==2.0.106
+python-dotenv==1.0.0
+
+# APIs & Utilities
+requests==2.31.0
+pytz==2023.3
+
+# Media Processing (Vercel এ কাজ নাও করতে পারে, তাই optional)
+# yt-dlp==2023.11.16
+# Pillow==10.1.0
+# qrcode==7.4.2
